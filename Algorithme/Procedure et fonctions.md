@@ -258,7 +258,7 @@ FinFonction
 
 /*Vérification colonne i pour ligne j colonne*/
 
-Fonction VerifColonnes(tab(8, 8) en Numérique) en Booléen
+Fonction VerifSousGrilles(tab(8, 8) en Numérique) en Booléen
 
 
 Variables i, j, casei, casej en Numériques
